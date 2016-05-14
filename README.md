@@ -1,6 +1,8 @@
 # deepsky-theme
 an emacs colour theme that may be useful to hackers with dichromacy.
 
+Requires Emacs >= 24.4
+
 This colour set evolved over time. It works for me; it might work for
 you. I find it easy on the eyes, and I can discern everything in
 it. Added as a special bonus is the fact that it isn't completely
